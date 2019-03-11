@@ -1,6 +1,6 @@
 ## WordCount
 
-Program to count the number of words in a given text file.
+Program to count the number of particular words in a given text file.
 
 The file used for the project is uploaded with thw project .
 
