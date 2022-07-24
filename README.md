@@ -1,8 +1,8 @@
 ## WordCount
 
-Program to count the number of particular words in a given text file.
+Program to count the number of particular words in a given text file after cleaning the text for analysis.
 
-The file used for the project is uploaded with thw project .
+The file used for the project is uploaded with the project .
 
 You can uncomment the file_data's & sample's section print command to understand what that variable holds
 (As file is too long, therefore didn't print their ouputs along with them).
